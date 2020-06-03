@@ -7,3 +7,8 @@ const port = process.env.PORT || 3000;app.use(express.static(publicPath));app.ge
 });app.listen(port, () => {
    console.log('Server is up!');
 });
+
+
+var cors = require('cors')
+
+app.use(cors())
