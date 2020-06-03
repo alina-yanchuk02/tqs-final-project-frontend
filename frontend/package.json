@@ -1,5 +1,5 @@
 {
-  "proxy": "https://reacttqs.herokuapp.com",
+  "proxy": "http://localhost:8080",
   "name": "web_frontend",
   "version": "0.1.0",
   "private": true,
@@ -27,7 +27,7 @@
     "styled-components": "^5.1.1"
   },
   "scripts": {
-    "start": "node index.js",
+    "start": "node src/server.js",
     "build": "react-scripts build",
     "test": "react-scripts test",
     "eject": "react-scripts eject"
