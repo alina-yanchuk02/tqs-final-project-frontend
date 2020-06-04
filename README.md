@@ -3,3 +3,5 @@ Repository for Frontend REACT JS DEPLOY for Final project for Software test and 
 
 
 Main GIT: https://github.com/viniciusbenite/tqs-final-project
+
+HEROKU DEPLOYED: https://reacttqs.herokuapp.com/
